@@ -6,6 +6,8 @@ You decide how many components you think it's needed, and
 the structure you prefer. This is simply a boilerplate, making it so you dont have to setup 
 the project yourself
 
+You're free to choose what packages you include, but let us know which ones you've used. 
+
 ## Getting started
 To get started on the assignment, fork this repository.
 When forked, you have to clone the forked version down to your computer like you would any other repo.
