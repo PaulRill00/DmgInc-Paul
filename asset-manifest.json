@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/DmgInc-Paul/static/css/main.995c8757.chunk.css",
-    "main.js": "/DmgInc-Paul/static/js/main.07b44ce7.chunk.js",
-    "main.js.map": "/DmgInc-Paul/static/js/main.07b44ce7.chunk.js.map",
+    "main.js": "/DmgInc-Paul/static/js/main.cc205f8a.chunk.js",
+    "main.js.map": "/DmgInc-Paul/static/js/main.cc205f8a.chunk.js.map",
     "runtime-main.js": "/DmgInc-Paul/static/js/runtime-main.aed501a4.js",
     "runtime-main.js.map": "/DmgInc-Paul/static/js/runtime-main.aed501a4.js.map",
     "static/js/2.c5a351b5.chunk.js": "/DmgInc-Paul/static/js/2.c5a351b5.chunk.js",
     "static/js/2.c5a351b5.chunk.js.map": "/DmgInc-Paul/static/js/2.c5a351b5.chunk.js.map",
     "index.html": "/DmgInc-Paul/index.html",
-    "precache-manifest.d085f536c08b62cce02806a03c4d5d80.js": "/DmgInc-Paul/precache-manifest.d085f536c08b62cce02806a03c4d5d80.js",
+    "precache-manifest.aa238effafcb294c97091331385910f6.js": "/DmgInc-Paul/precache-manifest.aa238effafcb294c97091331385910f6.js",
     "service-worker.js": "/DmgInc-Paul/service-worker.js",
     "static/css/main.995c8757.chunk.css.map": "/DmgInc-Paul/static/css/main.995c8757.chunk.css.map",
     "static/js/2.c5a351b5.chunk.js.LICENSE.txt": "/DmgInc-Paul/static/js/2.c5a351b5.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.aed501a4.js",
     "static/js/2.c5a351b5.chunk.js",
     "static/css/main.995c8757.chunk.css",
-    "static/js/main.07b44ce7.chunk.js"
+    "static/js/main.cc205f8a.chunk.js"
   ]
 }
