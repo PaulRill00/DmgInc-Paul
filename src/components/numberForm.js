@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
 
-const strReplace = require('react-string-replace');
-
 class NumberForm extends Component {
     constructor(props) {
         super(props);
