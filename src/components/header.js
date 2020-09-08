@@ -3,8 +3,6 @@ import {
     Link
 } from 'react-router-dom';
 
-const githubBase = "/DmgInc-Paul/";
-
 class Header extends Component {
     render() {
         return (
@@ -16,10 +14,10 @@ class Header extends Component {
                 <nav>
                     <ul>
                         <li>
-                            <Link to={githubBase}>home</Link>
+                            <Link to="/DmgInc-Paul/">home</Link>
                         </li>
                         <li>
-                            <Link to={{githubBase} + "trivia"}>trivia</Link>
+                            <Link to="/DmgInc-Paul/trivia">trivia</Link>
                         </li>
                     </ul>
 

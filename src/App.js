@@ -10,8 +10,6 @@ import Footer from './components/footer';
 import Homepage from './components/pages/homepage';
 import Trivia from './components/pages/trivia';
 
-const githubBase = "/DmgInc-Paul/";
-
 function App() {
 
   return (
@@ -19,8 +17,8 @@ function App() {
     <div className="App">
       <Header />
 
-      <Route exact path={githubBase} component={Homepage}/>
-      <Route exact path={{githubBase} + 'trivia'} component={Trivia}/>
+      <Route exact path='/DmgInc-Paul/' component={Homepage}/>
+      <Route exact path='/DmgInc-Paul/trivia' component={Trivia}/>
 
       <Footer />
     </div>
