@@ -37,11 +37,12 @@ class NumberForm extends Component {
         const number = (this.state.number === undefined || this.state.number === '') ? 0 : this.state.number;
         const type = (this.state.type === undefined || this.state.type === '') ? 'trivia' : this.state.type;
 
-        fetch("http://numbersapi.com/"+number+"/"+type+"?json")
+        const url = "http://numbersapi.com/"+number+"/"+type+"?json";
+
+        fetch(url)
         .then(res => res.json())
         .then(
             (result) => {
-                console.log(result);
                 this.setState({
                     isLoaded: true,
                     res: result
@@ -83,7 +84,7 @@ class NumberForm extends Component {
                     </select>
 
                     <h3>Type a number</h3>
-                    <input name="number" defaultValue="0" type="number" value={this.state.number} onChange={this.handleSubmit} />
+                    <input name="number" type="number" value={this.state.number} onChange={this.handleSubmit} />
                 </form>
             </section>
             <section>
