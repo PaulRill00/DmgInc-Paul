@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/RillProgramming/DmgInc-Paul/static/css/main.3071a7b8.chunk.css",
-    "main.js": "/RillProgramming/DmgInc-Paul/static/js/main.9f18b5cd.chunk.js",
-    "main.js.map": "/RillProgramming/DmgInc-Paul/static/js/main.9f18b5cd.chunk.js.map",
-    "runtime-main.js": "/RillProgramming/DmgInc-Paul/static/js/runtime-main.e22be231.js",
-    "runtime-main.js.map": "/RillProgramming/DmgInc-Paul/static/js/runtime-main.e22be231.js.map",
-    "static/js/2.d3261841.chunk.js": "/RillProgramming/DmgInc-Paul/static/js/2.d3261841.chunk.js",
-    "static/js/2.d3261841.chunk.js.map": "/RillProgramming/DmgInc-Paul/static/js/2.d3261841.chunk.js.map",
-    "index.html": "/RillProgramming/DmgInc-Paul/index.html",
-    "precache-manifest.3e429800c97653d2475cdea446be55cc.js": "/RillProgramming/DmgInc-Paul/precache-manifest.3e429800c97653d2475cdea446be55cc.js",
-    "service-worker.js": "/RillProgramming/DmgInc-Paul/service-worker.js",
-    "static/css/main.3071a7b8.chunk.css.map": "/RillProgramming/DmgInc-Paul/static/css/main.3071a7b8.chunk.css.map",
-    "static/js/2.d3261841.chunk.js.LICENSE.txt": "/RillProgramming/DmgInc-Paul/static/js/2.d3261841.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/RillProgramming/DmgInc-Paul/static/media/background.4194fec9.png"
+    "main.css": "/DmgInc-Paul/static/css/main.995c8757.chunk.css",
+    "main.js": "/DmgInc-Paul/static/js/main.48d184b5.chunk.js",
+    "main.js.map": "/DmgInc-Paul/static/js/main.48d184b5.chunk.js.map",
+    "runtime-main.js": "/DmgInc-Paul/static/js/runtime-main.aed501a4.js",
+    "runtime-main.js.map": "/DmgInc-Paul/static/js/runtime-main.aed501a4.js.map",
+    "static/js/2.c5a351b5.chunk.js": "/DmgInc-Paul/static/js/2.c5a351b5.chunk.js",
+    "static/js/2.c5a351b5.chunk.js.map": "/DmgInc-Paul/static/js/2.c5a351b5.chunk.js.map",
+    "index.html": "/DmgInc-Paul/index.html",
+    "precache-manifest.5635786f0489119acdfadb013d67eaf9.js": "/DmgInc-Paul/precache-manifest.5635786f0489119acdfadb013d67eaf9.js",
+    "service-worker.js": "/DmgInc-Paul/service-worker.js",
+    "static/css/main.995c8757.chunk.css.map": "/DmgInc-Paul/static/css/main.995c8757.chunk.css.map",
+    "static/js/2.c5a351b5.chunk.js.LICENSE.txt": "/DmgInc-Paul/static/js/2.c5a351b5.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/DmgInc-Paul/static/media/background.4194fec9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e22be231.js",
-    "static/js/2.d3261841.chunk.js",
-    "static/css/main.3071a7b8.chunk.css",
-    "static/js/main.9f18b5cd.chunk.js"
+    "static/js/runtime-main.aed501a4.js",
+    "static/js/2.c5a351b5.chunk.js",
+    "static/css/main.995c8757.chunk.css",
+    "static/js/main.48d184b5.chunk.js"
   ]
 }
